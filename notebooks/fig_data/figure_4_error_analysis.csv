@@ -1,0 +1,17 @@
+,Decision-maker,Drug,Result,Comparator,Value
+0,Model,First line,Inappropriate,MD_narrow_IAT,159
+1,Model,First line,Appropriate,MD_narrow_IAT,180
+2,Model,Second line,Inappropriate,MD_narrow_IAT,8
+3,Model,Second line,Appropriate,MD_narrow_IAT,45
+4,Model,First line,Inappropriate,MD_narrow_noIAT,102
+5,Model,First line,Appropriate,MD_narrow_noIAT,1909
+6,Model,Second line,Inappropriate,MD_narrow_noIAT,14
+7,Model,Second line,Appropriate,MD_narrow_noIAT,201
+8,Model,First line,Inappropriate,MD_broad_IAT,7
+9,Model,First line,Appropriate,MD_broad_IAT,52
+10,Model,Second line,Inappropriate,MD_broad_IAT,19
+11,Model,Second line,Appropriate,MD_broad_IAT,0
+12,Model,First line,Inappropriate,MD_broad_noIAT,89
+13,Model,First line,Appropriate,MD_broad_noIAT,1019
+14,Model,Second line,Inappropriate,MD_broad_noIAT,0
+15,Model,Second line,Appropriate,MD_broad_noIAT,137

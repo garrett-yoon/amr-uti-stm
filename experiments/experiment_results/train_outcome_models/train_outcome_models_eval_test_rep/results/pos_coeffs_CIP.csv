@@ -1,0 +1,11 @@
+feature,coeff
+micro - prev resistance CIP 180,1.246302302525391
+micro - prev resistance LVX ALL,1.0660821596707324
+ab class 14 - fluoroquinolone,0.6855309570061823
+micro - prev resistance CIP ALL,0.5084200858669643
+ab class 180 - fluoroquinolone,0.32910790455535066
+ab class 30 - fluoroquinolone,0.3097093053599336
+micro - prev resistance CIP 90,0.25820217524701183
+micro - prev resistance SXT 180,0.20303044404295478
+comorbidity 90 - HTN,0.18478736443688631
+medication 90 - ciprofloxacin,0.1725648555297072

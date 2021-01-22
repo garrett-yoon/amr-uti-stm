@@ -1,0 +1,11 @@
+feature,coeff
+micro - prev organism Escherichia 180,-0.2047527981296285
+micro - prev organism Escherichia 90,-0.12825676829063865
+micro - prev resistance SXT ALL,-0.11994494855486597
+selected micro - colonization pressure AMC 90 - granular level,-0.07210024005699275
+medication 180 - penicillin,-0.0623169607663462
+selected micro - colonization pressure DOX 90 - higher level,-0.06106315354670498
+selected micro - colonization pressure PEN 90 - overall,-0.060003782751078955
+selected micro - colonization pressure DOX 90 - overall,-0.0581687633263682
+hosp ward - ER,-0.05550948756292808
+selected micro - colonization pressure MIN 90 - overall,-0.05433428984073078

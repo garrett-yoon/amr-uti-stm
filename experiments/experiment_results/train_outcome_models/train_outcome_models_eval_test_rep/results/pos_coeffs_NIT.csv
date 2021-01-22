@@ -1,0 +1,11 @@
+feature,coeff
+micro - prev resistance NIT ALL,0.41656590413865063
+micro - prev resistance NIT 180,0.2565131757703132
+micro - prev resistance NIT 90,0.21967728313856122
+comorbidity 180 - DM,0.13081145740181532
+micro - prev organism Proteus 180,0.10617230939093342
+micro - prev resistance NIT 30,0.09719845504380983
+procedure 180 - had surgery,0.09468993190521319
+comorbidity 180 - Obesity,0.09459953491385871
+medication ALL - levofloxacin,0.09054218115519705
+hosp ward - IP,0.09021083990973776

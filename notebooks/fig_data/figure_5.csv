@@ -1,0 +1,21 @@
+,cohort,model,drug,AUC,STD,LCI,UCI
+0,full,Full,Nitrofurantoin,0.557,0.015,0.527,0.587
+1,full,Full,TMP-SMX,0.598,0.012,0.576,0.621
+2,full,Full,Ciprofloxacin,0.638,0.018,0.602,0.674
+3,full,Full,Levofloxacin,0.621,0.019,0.583,0.659
+4,full,Prior antibiotics,Nitrofurantoin,0.551,0.015,0.521,0.58
+5,full,Prior antibiotics,TMP-SMX,0.583,0.011,0.56,0.605
+6,full,Prior antibiotics,Ciprofloxacin,0.643,0.019,0.606,0.68
+7,full,Prior antibiotics,Levofloxacin,0.619,0.02,0.581,0.657
+8,full,Prior resistance,Nitrofurantoin,0.544,0.015,0.515,0.574
+9,full,Prior resistance,TMP-SMX,0.566,0.012,0.543,0.588
+10,full,Prior resistance,Ciprofloxacin,0.609,0.018,0.574,0.644
+11,full,Prior resistance,Levofloxacin,0.599,0.019,0.562,0.636
+12,full,Colonization pressure,Nitrofurantoin,0.567,0.015,0.537,0.596
+13,full,Colonization pressure,TMP-SMX,0.598,0.012,0.575,0.62
+14,full,Colonization pressure,Ciprofloxacin,0.636,0.019,0.6,0.673
+15,full,Colonization pressure,Levofloxacin,0.62,0.019,0.582,0.658
+16,full,Hospital antibiotic use,Nitrofurantoin,0.557,0.015,0.527,0.587
+17,full,Hospital antibiotic use,TMP-SMX,0.598,0.012,0.575,0.621
+18,full,Hospital antibiotic use,Ciprofloxacin,0.638,0.018,0.602,0.674
+19,full,Hospital antibiotic use,Levofloxacin,0.622,0.019,0.584,0.659

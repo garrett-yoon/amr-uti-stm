@@ -1,10 +1,9 @@
 #!/bin/bash
 
 # Change this line to reflect where you have stored the data release files
-export DATA_PATH="<FULL PATH TO DATA RELEASE FOLDER>"
-
+export DATA_PATH="/mnt/c/Users/ghjyo/Code/amr-uti/data"
 # Change this line to reflect the location of the repository 
-export REPO_PATH="<FULL PATH TO THIS REPOSITORY>"
+export REPO_PATH="/mnt/c/Users/ghjyo/Code/amr-uti-stm"
 
 # DO NOT change these lines; These are assumed elsewhere. 
 # Note that while experiment results are stored in the same file tree as the repo, gitignore is set to ignore these results 

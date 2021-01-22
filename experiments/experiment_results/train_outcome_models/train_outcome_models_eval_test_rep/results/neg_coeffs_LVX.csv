@@ -1,0 +1,11 @@
+feature,coeff
+hosp ward - OP,-0.10513333338487874
+demographics - is_white,-0.10095857246504158
+micro - prev resistance CFZ ALL,-0.01143166625542813
+micro - prev organism Staphylococcus 90,0.0
+micro - prev organism Proteus 90,0.0
+micro - prev organism Enterococcus 90,0.0
+micro - prev organism Pseudomonas 90,0.0
+micro - prev organism Citrobacter 90,0.0
+micro - prev organism Acinetobacter 90,0.0
+micro - prev organism Pseudomonas 180,0.0

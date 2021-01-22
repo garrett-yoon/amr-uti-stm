@@ -1,0 +1,11 @@
+feature,coeff
+hosp ward - OP,-0.24110230071497193
+selected micro - colonization pressure SAM 90 - overall,-0.14772953359634283
+demographics - is_white,-0.14662761247912337
+selected micro - colonization pressure AMC 90 - granular level,-0.07078753323848243
+micro - prev resistance CFZ ALL,-0.019320236435769113
+micro - prev organism Staph_coag_neg 90,0.0
+micro - prev organism Enterobacter 90,0.0
+micro - prev organism Staphylococcus 90,0.0
+micro - prev organism Proteus 90,0.0
+micro - prev organism Enterococcus 90,0.0

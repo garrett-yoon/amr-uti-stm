@@ -1,0 +1,11 @@
+feature,coeff
+demographics - is_white,-0.4067069765602361
+micro - prev resistance CFZ 180,-0.3715093918021563
+micro - prev organism Escherichia 180,-0.21226924231760486
+micro - prev resistance NIT ALL,-0.13905717611373414
+micro - prev resistance CFZ ALL,-0.12645984379934314
+selected micro - colonization pressure PEN 90 - overall,-0.10691749211044006
+micro - prev resistance ERY 180,-0.09432718270897154
+micro - prev resistance CFZ 90,-0.08322379085646901
+micro - prev resistance PEN ALL,-0.05496046096438412
+ab class ALL - fluoroquinolone,-0.044037402070513036
